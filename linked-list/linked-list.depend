@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1651159051 source:c:\users\oskja\onedrive\desktop\cpp-algorithms\linked-list\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<iomanip>
+	"src/linked-list.cpp"
+
+1651159479 c:\users\oskja\onedrive\desktop\cpp-algorithms\linked-list\src\linked-list.cpp
+	"linked-list.h"
+
+1651159465 c:\users\oskja\onedrive\desktop\cpp-algorithms\linked-list\include\linked-list.h
+
+1651159479 source:c:\users\oskja\onedrive\desktop\cpp-algorithms\linked-list\src\linked-list.cpp
+	"linked-list.h"
+
