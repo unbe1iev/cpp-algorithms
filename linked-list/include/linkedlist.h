@@ -1,5 +1,5 @@
-#ifndef LINKED-LIST_H
-#define LINKED-LIST_H
+#ifndef LINKEDLIST_H
+#define LINKEDLIST_H
 
 // We need one item class to handle the list that is below
 template <class T>
@@ -43,4 +43,4 @@ public:
 };
 
 
-#endif // LINKED-LIST_H
+#endif // LINKEDLIST_H
