@@ -35,6 +35,6 @@
 *.cbp
 *.layout
 *.depend
-obj/*
-bin/*
+obj/
+bin/
 

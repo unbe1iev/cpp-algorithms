@@ -3,7 +3,7 @@
 #include <time.h>
 #include <iomanip>
 
-#include "src/linked-list.cpp"
+#include "linked-list.cpp"
 
 using namespace std;
 
