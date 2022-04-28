@@ -32,7 +32,6 @@
 *.app
 
 #Code Blocks directories and files
-
 *.depend
 *.cbp
 *.layout
