@@ -39,5 +39,11 @@ obj/
 bin/
 
 #Visual studio directories and files
-*/x64/*
-*.vcxproj*
+avl-tree/avl-tree/x64/
+avl-tree/x64/
+avl-tree/.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+
