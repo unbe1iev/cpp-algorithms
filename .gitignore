@@ -38,3 +38,8 @@
 obj/
 bin/
 
+#Visual studio directories and files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
