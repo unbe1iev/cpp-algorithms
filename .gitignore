@@ -42,10 +42,11 @@ bin/
 avl-tree/avl-tree/x64/
 avl-tree/x64/
 avl-tree/.vs/
+queue/queue/x64
+queue/x64/
+queue/.vs/
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
 *.sln
-queue/queue/x64
-queue/x64/
-queue/.vs/
+
